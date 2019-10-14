@@ -18,5 +18,5 @@ https://stanfordnlp.github.io/stanfordnlp/processors.html
 Stanford Data Objects:
 https://stanfordnlp.github.io/stanfordnlp/data_objects.html#document
 
-Use StanfordCoreNLP Library instead of StanfordNLP as Core is extendive and has Java support.
+Use StanfordCoreNLP Library instead of StanfordNLP as Core is extensive and has Java support.
 
