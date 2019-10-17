@@ -16,8 +16,9 @@ https://www.machinelearningplus.com/nlp/lemmatization-examples-python/
 
 ## Newspaper
 Newspaper is a Python module used for extracting and parsing newspaper articles. Newspaper use advance algorithms with web scrapping to extract all the useful text from a website.
+
 **installation**
-pip install newspaper
+**pip install newspaper**
 
 
 
