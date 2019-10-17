@@ -13,7 +13,7 @@ $ python setup.py install
 
 sudo pip install feedparser
 
-** Links for feedback parser: **
+**Links for feedback parser:**
 https://pypi.org/project/feedparser/
 
 Link for stanford function:
@@ -24,7 +24,11 @@ Newspaper is a Python module used for extracting and parsing newspaper articles.
 
 **installation**
 
-**pip install newspaper**
+**pip install newspaper**-for python 2
+
+**pip install newspaper3k** - for python3
+
+**link: https://pypi.org/project/newspaper3k/**
 
 
 
