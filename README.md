@@ -35,6 +35,7 @@ Newspaper is a Python module used for extracting and parsing newspaper articles.
 # Stanford Resources:
 
 Stanford NLP: https://stanfordnlp.github.io/stanfordnlp/
+
               https://github.com/stanfordnlp/stanfordnlp
               
 Stanford Pipeline:
@@ -47,5 +48,13 @@ https://stanfordnlp.github.io/stanfordnlp/processors.html
 Stanford Data Objects:
 https://stanfordnlp.github.io/stanfordnlp/data_objects.html#document
 
-Use StanfordCoreNLP Library instead of StanfordNLP as Core is extensive and has Java support.
+**Stanford CoreNLP** integrates many of Stanford’s NLP tools, including the part-of-speech (POS) tagger, the named entity recognizer (NER), the parser, the coreference resolution system, sentiment analysis, bootstrapped pattern learning, and the open information extraction tools. 
+
+#### follow this link : https://towardsdatascience.com/natural-language-processing-using-stanfords-corenlp-d9e64c1e1024
+
+or
+
+https://www.machinelearningplus.com/nlp/lemmatization-examples-python/
+
+**Use StanfordCoreNLP Library instead of StanfordNLP as Core is extensive and has Java support.**
 
